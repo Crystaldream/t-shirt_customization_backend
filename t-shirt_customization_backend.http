@@ -1,0 +1,6 @@
+@t_shirt_customization_backend_HostAddress = http://localhost:5298
+
+GET {{t_shirt_customization_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
